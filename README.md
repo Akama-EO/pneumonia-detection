@@ -1,9 +1,8 @@
 # Computer Vision - Pnuemonia Detection with Mask R-CNN 
 <p align="center">
-<img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" alt="Image" width="450" height="450">
+<img src="https://github.com/Akama-EO/pneumonia-detection/blob/main/sample-prediction.png" width="450" height="450">
 
-View the paper of the challenge [here](https://www.rsna.org/rsnai/ai-image-challenge/rsna-pneumonia-detection-challenge-2018)
-Also, the dataset used for the project can be downloaded from [here]()
+Click [here](https://www.rsna.org/rsnai/ai-image-challenge/rsna-pneumonia-detection-challenge-2018) to learn more about the challenge.
 
 ## Table Of Contents
   - [Introduction](#introduction)
@@ -95,11 +94,11 @@ The following methodologies were adopted during for the project.
 - Hardware: GPU (e.g., NVIDIA) for faster training.
 
 ## Project Artifacts
-The project artifects were developed with notebooks on [Google Colab]().
+The project artifects were developed with notebooks on [Google Colab](https://colab.research.google.com/).
 
-1. Click [here]() to view  the notebook on exploratory data analysis.
+1. Click [here](https://github.com/Akama-EO/pneumonia-detection/blob/main/exploratory_analysis.ipynb) to view  the notebook on exploratory data analysis.
 
-2. Click [here]() to view  the notebook on model training.
+2. Click [here](https://github.com/Akama-EO/pneumonia-detection/blob/main/model_training.ipynb) to view  the notebook on model training.
 
-3. Click [here]() to view the notebook on model evaluation.
+3. Click [here](https://github.com/Akama-EO/pneumonia-detection/blob/main/model_evaluation.ipynb) to view the notebook on model evaluation.
 
